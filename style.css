@@ -1,0 +1,13 @@
+.container{
+    display: inline-grid;
+    height:480px;
+    width: 480px;
+}
+
+.grid{
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.bgchange{
+    background-color: black;
+}
